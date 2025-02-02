@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lê Nguyễn Gia Hưng. I am a student at the Ho Chi Minh University of Technology (HCMUT). Actually, I'm passionate about artificial intelligence, particularly computer vision. My goal is to become an AI engineer, focusing on enabling machines to understand and interpret visual data.</h1>
+<h1 align="center">Hi 👋, I'm Lê Nguyễn Gia Hưng, a student at HCMUT. I'm passionate about AI, especially computer vision, and aim to become an AI engineer focused on enabling machines to understand visual data.</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/lê-nguyễn-gia-hưng-148266316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/lê-nguyễn-gia-hưng-148266316" height="30" width="40" /></a>
