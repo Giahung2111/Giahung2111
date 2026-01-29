@@ -1,6 +1,4 @@
-<h2 align="center">Hi 👋, I'm Lê Nguyễn Gia Hưng, a student at HCMUT. AI Engineer with a strong foundation in Computer Vision, Large Language Models (LLMs), and Recommender Systems. Skilled in Python, C++, Java, JavaScript, PyTorch, and OpenCV, with hands-on
-experience deploying AI solutions using Docker, Git, Django, and FastAPI. Passionate about advancing
-AI research, mastering deep learning techniques, and building impactful intelligent systems</h2>
+<h2 align="center">Hi 👋, I'm Lê Nguyễn Gia Hưng, a student at HCMUT. AI Engineer with a strong foundation in Computer Vision, Large Language Models (LLMs), and Recommender Systems.</h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/lê-nguyễn-gia-hưng-148266316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/lê-nguyễn-gia-hưng-148266316" height="30" width="40" /></a>
